@@ -11,12 +11,12 @@
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id ="@+id/frame_layout"/>
+        android:id="@+id/frame_layout"/>
 
   <com.google.android.material.bottomappbar.BottomAppBar
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      android:id = "@+id/bottomAppBar"
+      android:id ="@+id/bottomAppBar"
       android:layout_gravity="bottom"
       android:background="@color/white"
       app:fabCradleMargin="10dp"
